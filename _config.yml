@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Danny Yoon"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.jpg"
   bio              : "Choate Rosemary Hall'24"
   location         : "Seoul, Korea | Wallingford, CT"
   email            : "dannyyoon0303@gmail.com"
