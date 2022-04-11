@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Danny Yoon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Choate Rosemary Hall'24"
   location         : "Seoul, Korea | Wallingford, CT"
   email            : "dannyyoon0303@gmail.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/dannyyoon0303"
 
 # Site Footer
 footer:
