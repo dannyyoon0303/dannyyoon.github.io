@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Danny Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Choate Rosemary Hall'24"
+  location         : "Seoul, Korea | Wallingford, CT"
+  email            : "dannyyoon0303@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
